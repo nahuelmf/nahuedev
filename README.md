@@ -51,7 +51,7 @@ src/
 ## 🚀 Instalación local
 
 ```bash
-git clone https://github.com/tuusuario/mi-portfolio.git
+git clone https://github.com/nahuelmf/nahuedev
 cd mi-portfolio
 npm install
 npm start
